@@ -1,0 +1,186 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  padding: 2%;
+  background-color: #f4f4f4;
+  font-family: "BPG Nino Mtavruli";
+  font-weight: bold;
+}
+
+.main-aside {
+  width: 21%;
+  background-color: #4f3f68;
+  padding: 30px;
+  border-radius: 15px;
+  border-radius: 15px;
+  height: 90%;
+  font-size: 18px;
+  position: fixed;
+}
+
+.search-div {
+  margin-top: 10px;
+  padding-right: 5px;
+  position: relative;
+}
+.seach-input {
+  height: 30px;
+  border-radius: 10px;
+}
+
+.search-logo {
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  width: 20px;
+}
+
+.nav-links {
+  color: #fff;
+  margin-top: 50px;
+}
+
+.nav-li {
+  margin-bottom: 10px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.momtsere-div {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.messenger-logo {
+  width: 50px;
+}
+
+.momtsere-p {
+  margin-left: 20px;
+  color: #fff;
+}
+
+.aside-contact-logos {
+  display: flex;
+  position: absolute;
+  bottom: 5%;
+}
+
+.facebook-logo {
+  height: 24px;
+  margin-right: 20px;
+}
+
+.instagram-logo {
+  height: 24px;
+}
+
+.main-section {
+  margin-left: 25%;
+}
+
+.main-header {
+  align-items: center;
+}
+
+.moody-logo {
+  width: 8%;
+  margin-right: 5%;
+}
+
+.moody-diary {
+  color: #4a6693;
+}
+
+.moody-diarys-div {
+  margin-top: 5%;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.moody-diarys-div-header {
+  justify-content: space-between;
+}
+
+.moody-diarys-header-p {
+  margin: 10px 0 0 10px;
+  font-size: 26px;
+}
+
+.diarys-date {
+  border-bottom-left-radius: 10px;
+  background-color: #4f3f68;
+  padding: 10px;
+  border-top-right-radius: 15px;
+  font-size: 20px;
+}
+
+.pure-diary {
+  margin: 5% 0 0 10px;
+  width: 70%;
+  font-family: "DejaVu Sans";
+  font-weight: normal;
+  font-style: normal;
+}
+
+.moody-diarys-div-footer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.paw-img-div {
+  display: inline-block;
+  background-color: #fcef54;
+  padding: 15px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.paw-img {
+  width: 32px;
+}
+
+.diary-emotions {
+  background: lightblue;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 150px;
+  border-radius: 15px;
+}
+
+.bone,
+.share {
+  width: 25px;
+  margin-left: 20px;
+}
+
+.bones-number,
+.share-number {
+  margin-left: 20px;
+  color: #fff;
+}
+
+.bone-emotion {
+  position: absolute;
+  right: 130px;
+  z-index: 1;
+  background-color: #a5d9e5;
+}
+
+.share-emotion {
+  background-color: #fcef54;
+  z-index: 2;
+}
+
+.emotion-buttons {
+  border: none;
+}
+
+.share-number {
+  color: black;
+}
